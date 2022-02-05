@@ -2,21 +2,37 @@
 
 # Carousel com React
 
-Um projeto bem bacana pra você apresentar no seu portfolio e que demonstra que você tem conhecimentos de css e javascript é o carousel. Um projeto simples porem desafiador que geralmente é o projeto que pedem em entrevistas de emprego.
+Um projeto teve como objetivo, como criar a estrutura de um caroseul em React.
 
-Esse projeto é parte do video que foi disponibilizado no meu canal do youtube.
+
+
+Esse projeto é parte do video que foi disponibilizado no canal do youtube.
 
 [![!Carousel com React](http://i3.ytimg.com/vi/cX0N3TNxumw/maxresdefault.jpg)](https://www.youtube.com/watch?v=cX0N3TNxumw)
 
-Esse repositório e o video têm fins educativos.
 
-#### Se ainda não segue, veja minhas outras Redes Sociais
+## ✅ Pré-requisitos para clonar
 
-[![instagram.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/instagram.png?raw=true)](https://emersonbroga.com/instagram) 
-[![youtube.com/c/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/youtube.png?raw=true)](https://emersonbroga.com/youtube)
-[![facebook.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/facebook.png?raw=true)](https://emersonbroga.com/facebook)
-[![twitter.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/twitter.png?raw=true)](https://emersonbroga.com/twitter)
-[![github.com/emersonbroga](https://github.com/emersonbroga/social-media-snippets/blob/master/static/github.png?raw=true)](https://emersonbroga.com/github)
+- [Git](https://git-scm.com)
+- Editor de texto - para melhor visualização do código fonte
+
+
+
+
+### 🔁 Como clonar em sua máquina?
+Acesse o terminal e digite os seguintes comando:
+
+Clone este repositório
+```bash
+git clone https://github.com/Ingridaquino/carousel-react.git carousel-react
+```
+
+Em seguida acesse o repositório com o comando:
+```bash
+cd carousel-react
+```
+
+
 
 
 
